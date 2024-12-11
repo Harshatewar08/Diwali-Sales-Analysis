@@ -2,9 +2,9 @@
 
 Objective: To analyze sales data during the Diwali festival period to identify trends, patterns, and insights that can inform future marketing and sales strategies.
 
-#Tools Used #: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Tools Used : Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-#Data Collection # : Gathered sales data from various sources, including online and offline retail channels, during the Diwali season.
+#Data Collection : Gathered sales data from various sources, including online and offline retail channels, during the Diwali season.
 
 Data Cleaning and Preprocessing: Cleaned and preprocessed the data to ensure accuracy and consistency for analysis.
 
